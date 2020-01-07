@@ -1,0 +1,3 @@
+We discus how to classify all finite simplie Lie algebras, building up to Cartan's theorem.
+
+Some unlectured/more tricky proofs are omitted in these notes. They will be added during the Easter term.
